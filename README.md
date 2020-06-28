@@ -24,3 +24,6 @@ Project overview:
 Output of the project: 
 
 ![Output](https://github.com/nikhil1102/Auto_encoder/blob/master/output.PNG)
+
+
+Reference : Guided project from Coursera
